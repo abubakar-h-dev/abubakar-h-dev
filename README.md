@@ -25,9 +25,9 @@ Showcases projects, skills, and contact info in a modern, responsive design.
 **Tech Used:** HTML5, CSS3, JavaScript, Tailwind CSS  
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- GitHub: https://github.com/abubakar-h-dev
-- Portfolio: https://your-portfolio-link
+- LinkedIn: https://www.linkedin.com/in/mohamed-abubakar-h
+- GitHub: https://github.com/abubakar-h-dev/abubakar-h-dev
+
 
 ## 📌 Goals
 - Enhance skills in React.js and Full Stack Development  

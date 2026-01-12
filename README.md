@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Mohamed Abubakar
 
-<!--
-**abubakar-h-dev/abubakar-h-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate | Fresher Web Developer  
+💻 React.js | Java | Tailwind CSS  
+📍 Sharjah, UAE  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am a passionate fresher web developer focused on building responsive and user-friendly web applications.
+I enjoy learning new technologies and solving real-world problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Frontend: HTML5, CSS3, JavaScript, React.js, Tailwind CSS
+- Backend: Java
+- Database: MySQL
+- Tools: Git, GitHub, VS Code
+
+## 📂 Projects
+- 🎬 **Netflix Clone**  
+Built using React.js and Tailwind CSS. Responsive UI inspired by Netflix.  
+**Tech Used:** React.js, Tailwind CSS  
+**Features:** Responsive design, Component-based structure, Clean UI  
+
+- 🌐 **Portfolio Website**  
+Showcases projects, skills, and contact info in a modern, responsive design.  
+**Tech Used:** HTML5, CSS3, JavaScript, Tailwind CSS  
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/your-linkedin
+- GitHub: https://github.com/abubakar-h-dev
+- Portfolio: https://your-portfolio-link
+
+## 📌 Goals
+- Enhance skills in React.js and Full Stack Development  
+- Contribute to open source projects  
+- Build innovative and responsive web applications
+
